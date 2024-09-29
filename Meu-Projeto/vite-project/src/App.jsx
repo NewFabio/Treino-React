@@ -2,6 +2,7 @@ import './App.css'
 import HelloWorld from './compents/HelloWorld'
 import SayMyName from './compents/SayMyName'
 import Pessoa from './compents/Pessoa'
+import List from './compents/List'
 
 function App() {
   const name = 'Junio'
@@ -19,6 +20,7 @@ function App() {
         profession='Military'
         foto='https:via.placeholder.com/150'
       />
+      <List/>
     </div>
   )
 }
