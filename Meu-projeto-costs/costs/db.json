@@ -1,65 +1,24 @@
 {
-  "projects": [
-    {
-      "id": "0100",
-      "name": "Projeto Independencia",
-      "budget": "10000000000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "4875",
-      "name": "teste",
-      "budget": "122",
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "869f",
-      "name": "teste",
-      "budget": "1",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "7877",
-      "name": "joao",
-      "budget": "111",
-      "category": {
-        "id": "5",
-        "name": "Reformulaçao"
-      },
-      "cost": 0,
-      "services": []
-    }
-  ],
+  "projects": [],
   "categories": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Infra"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Desenvolvimento"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Design"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Planejamento"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Reformulaçao"
     }
   ]
