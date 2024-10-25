@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": "1e6e",
-      "name": "Fast Food",
-      "budget": "5000",
+      "name": "Fast Food2",
+      "budget": "12000",
       "category": {
         "id": "1",
         "name": "Infra"
@@ -13,8 +13,8 @@
     },
     {
       "id": "5e72",
-      "name": "Body Move",
-      "budget": "2000",
+      "name": "Body Movee",
+      "budget": "5000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -25,7 +25,7 @@
     {
       "id": "0d21",
       "name": "Study Calculater",
-      "budget": "2000",
+      "budget": "20000",
       "category": {
         "id": "4",
         "name": "Planejamento"
@@ -36,7 +36,7 @@
     {
       "id": "d938",
       "name": "Stock Control",
-      "budget": "10000",
+      "budget": "2000",
       "category": {
         "id": "5",
         "name": "Reformulaçao"
