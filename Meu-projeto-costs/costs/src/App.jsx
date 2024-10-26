@@ -8,7 +8,7 @@ import Project from './Components/pages/Project'
 
 
 import Container from './Components/layout/Container'
-import Navbar from './Components/layout/NavBar'
+import Navbar from './Components/layout/Navbar'
 import Footer from './Components/layout/Footer'
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Navbar />
       <Container customClass='min-height'>
         <Routes>
-            <Route exact path='/' element={<Home />} />   
+            <Route path='/' element={<Home />} />   
             <Route path='/project' element={<Projects />} />
             <Route path='/company' element={<Company />} />
             <Route path='/contact' element={<Contact />} />
